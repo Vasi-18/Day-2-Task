@@ -1,0 +1,21 @@
+         
+		 Day 2 Task
+
+1. Write a blog on difference between document and window objects ?	 
+
+	Document:
+		1. Each HTML document that gets loaded into a window becomes a document object. Using document object, JavaScript can modify, 
+		add and delete the HTML elements, attributes CSS styles in the page
+		2. It is the object of window property.
+		3. All the tags, elements with attributes in HTML are part of the document.
+		4. The document is part of BOM (browser object model) and dom (Document object model).
+		5. syntax: document.propertyname;
+		
+		
+	Window:
+		1. It is the top most object and outermost element of the object hierarchy.
+		2. It is the object of the browser.
+		3. Global objects, functions, and variables of JavaScript are members of the window object.
+		4. The window is part of BOM (browser object model) and dom (Document object model).
+		5. syntax: window.propertyname;
+		
